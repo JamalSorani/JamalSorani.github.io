@@ -61025,7 +61025,7 @@ if(l)l=130
 else l=p>=728?150:170
 return A.abE(B.jh,new A.fr(B.jT,A.abK(A.mG(A.a([j,m,B.vh,A.lI(A.a([new A.h7(s,o,k,r),new A.h7(B.jz,o,l,r)],i),B.dW,B.M),B.vh,new A.h7(B.Gk,n,r,r)],i),B.V,B.Q)),r))}}
 A.a_7.prototype={
-$0(){A.a9f("assets/JAMAL SORANI.pdf").click()},
+$0(){A.a9f("assets/JAMAL_SORANI.pdf").click()},
 $S:0}
 A.h7.prototype={
 T(a){var s=null
@@ -61050,7 +61050,7 @@ $S:0}
 A.BN.prototype={
 x9(){var s=0,r=A.W(t.z)
 var $async$x9=A.X(function(a,b){if(a===1)return A.T(b,r)
-while(true)switch(s){case 0:A.a9f("assets/JAMAL SORANI.pdf").click()
+while(true)switch(s){case 0:A.a9f("assets/JAMAL_SORANI.pdf").click()
 return A.U(null,r)}})
 return A.V($async$x9,r)},
 T(a){var s=null,r=A.cG(a,s,t.w).w.a.a,q=r-40,p=A.lz(s,new A.h8(B.yR,r-80,s,s),s,s,s,s,45,s),o=A.lz(s,new A.h8(B.yW,175,s,s),s,s,0,s,s,s),n=A.ND(B.di,5),m=A.pQ(200),l=t.p
