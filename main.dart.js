@@ -61002,7 +61002,7 @@ case 1:return A.T(p,r)}})
 return A.V($async$re,r)}}
 A.V9.prototype={}
 A.BU.prototype={
-T(a){return new A.rE(new A.Dv(new A.Uj(),null),"Flutter Demo",A.ac8(null,A.ai9(B.Y,B.Ek),!0),null)}}
+T(a){return new A.rE(new A.Dv(new A.Uj(),null),"CV",A.ac8(null,A.ai9(B.Y,B.Ek),!0),null)}}
 A.Uj.prototype={
 $2(a,b){if(b.a===B.fj)return B.EA
 return B.Oa},

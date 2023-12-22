@@ -1,11 +1,11 @@
 {
-    "name": "jamal_sorani_cv",
+    "name": "CV",
     "short_name": "jamal_sorani_cv",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Jamal Sorani's curriculum vitae.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
