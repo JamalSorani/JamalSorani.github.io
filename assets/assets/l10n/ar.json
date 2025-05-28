@@ -48,5 +48,12 @@
     "selectSubject": "تحديد المادة",
     "memoDetails": "تفاصيل المذكرة",
     "memos": "المذكرات",
-    "moreMemos": "مذكرات أخرى"
+    "moreMemos": "مذكرات أخرى",
+    "package_details": "تفاصيل باقة",
+    "package_desciption": "وصف الباقة",
+    "more_packages": "باقات أخرى",
+    "addToCartSuccessfully": "تم الإضافة للسلة بنجاح",
+    "deleteFromCartSuccessfully": "تم حذف العنصر بنجاح",
+    "deleteFromCart": "حذف من السلة",
+    "shopping_cart": "سلة التسوق"
 }
